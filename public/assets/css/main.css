@@ -2955,7 +2955,7 @@
 		}
 
 			#header h1 a {
-				color: #fff;
+				color: #bbb;
 				font-weight: 400;
 				border: 0;
 			}
@@ -2993,7 +2993,7 @@
 					}
 
 					#header nav > ul > li a:not(.button) {
-						color: #fff;
+						color: #bbb;
 						display: inline-block;
 						text-decoration: none;
 						border: 0;
@@ -3015,6 +3015,7 @@
 					#header nav > ul > li .button {
 						margin: 0 0 0 0.5em;
 						position: relative;
+						color: #bbb;
 					}
 
 		#header input[type="submit"],
