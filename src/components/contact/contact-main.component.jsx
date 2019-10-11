@@ -11,13 +11,13 @@ const ContactMain = () => {
         <form method="post" action="/">
           <div className="row gtr-50 gtr-uniform">
             <div className="col-6 col-12-mobilep">
-              <input type="text" name="name" id="name" value="" placeholder="Name" />
+              <input type="text" name="name" id="name" placeholder="Name" />
             </div>
             <div className="col-6 col-12-mobilep">
-              <input type="email" name="email" id="email" value="" placeholder="Email" />
+              <input type="email" name="email" id="email" placeholder="Email" />
             </div>
             <div className="col-12">
-              <input type="text" name="subject" id="subject" value="" placeholder="Subject" />
+              <input type="text" name="subject" id="subject" placeholder="Subject" />
             </div>
             <div className="col-12">
               <textarea name="message" id="message" placeholder="Enter your message" rows="6"></textarea>
